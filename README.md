@@ -25,7 +25,9 @@ A passionate **Full Stack & Backend Developer** from India 🇮🇳
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/sajalgoyal007/sajalgoyal007/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sajalgoyal007/sajalgoyal007/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sajalgoyal007&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
