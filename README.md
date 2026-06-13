@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI/ML+Enthusiast;Backend+Engineer;Web3+Builder;Hackathon+Leader" />
 </p>
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
+
+
   
 <h1 align="center">Hi 👋, I'm Sajal Goyal</h1>
 <h3 align="center">Full Stack Developer • AI/ML Enthusiast • Backend Engineer 🇮🇳</h3>
