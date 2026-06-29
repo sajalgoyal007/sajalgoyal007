@@ -14,7 +14,7 @@
 
 🚀 Building impactful real-world projects using modern technologies  
 🏆 Active Hackathon Participant & Team Leader  
-💡 Interested in AI, Web3, Backend Systems & Scalable Apps  
+💡 Interested in AI, ML, GenAI, Backend Systems & Scalable Apps  
 🌱 Currently learning advanced backend architecture & cloud technologies  
 ⚡ Love turning startup ideas into working products
 
