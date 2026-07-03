@@ -39,6 +39,7 @@
 | 🌍 **TripBuddy** | Smart AI travel planner with itinerary & budget management |
 | 🎓 **CollegeZen** | Production-grade college discovery & comparison platform |
 | 🧠 **Next_U AI** | AI-powered learning & productivity platform using modern AI workflows |
+and many more
 
 
 - ## 📈 Contribution Graph
