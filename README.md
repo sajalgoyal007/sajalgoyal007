@@ -6,9 +6,6 @@
 <img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-
-
-  
 <h1 align="center">Hi 👋, I'm Sajal Goyal</h1>
 <h3 align="center">Full Stack Developer • AI/ML Enthusiast • Backend Engineer 🇮🇳</h3>
 
